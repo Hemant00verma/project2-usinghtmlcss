@@ -1,0 +1,210 @@
+ 
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+TC:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Ysabeau+SC:wght@1..1000&display=swap');
+
+*{
+
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+ }
+nav{
+    height: 10vh;
+}
+.serie{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.serie img{
+    height: 30px;
+    
+
+}
+.listt{
+    display: flex;
+    justify-items: left;
+    list-style: none;
+    
+    gap: 40px;
+    margin-right: 120px;
+    text-transform: capitalize;
+    color:rgb(100, 95, 95);
+    
+
+
+}
+.listt li:nth-child(1) {
+    
+        font-weight: bold;
+}
+.serie button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(42, 42, 174);
+    color: white;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    
+}
+.main {
+
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+
+
+}
+.main img{
+    height:85vh;
+
+
+}
+.stat{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ .stat h2 {
+    font-size: 5rem;
+    line-height: 80px;
+    margin-top: 80px;
+    margin-left: 70px;
+    color: rgb(191, 191, 253);
+    font-weight: 500;
+
+ }
+ .stat h2 span{
+    color: rgb(93, 93, 190);
+ }
+ .pas{
+    font-size: 0.8rem;
+    padding-left: 90px;
+    margin-top: 40px;
+
+
+ }
+ .but{
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(42, 42, 174);
+    color: white;
+    text-transform: capitalize;
+    margin-top: 70px;
+    letter-spacing: 0.5px;
+
+ }
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+TC:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Ysabeau+SC:wght@1..1000&display=swap');
+
+*{
+
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+ }
+nav{
+    height: 10vh;
+}
+.serie{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.serie img{
+    height: 30px;
+    
+
+}
+.listt{
+    display: flex;
+    justify-items: left;
+    list-style: none;
+    
+    gap: 40px;
+    margin-right: 120px;
+    text-transform: capitalize;
+    color:rgb(100, 95, 95);
+    
+
+
+}
+.listt li:nth-child(1) {
+    
+        font-weight: bold;
+}
+.serie button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(42, 42, 174);
+    color: white;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    
+}
+.main {
+
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+
+
+}
+.main img{
+    height:85vh;
+
+
+}
+.stat{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ .stat h2 {
+    font-size: 5rem;
+    line-height: 80px;
+    margin-top: 80px;
+    margin-left: 70px;
+    color: rgb(191, 191, 253);
+    font-weight: 500;
+
+ }
+ .stat h2 span{
+    color: rgb(93, 93, 190);
+ }
+ .pas{
+    font-size: 0.8rem;
+    padding-left: 90px;
+    margin-top: 40px;
+
+
+ }
+ .but{
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(42, 42, 174);
+    color: white;
+    text-transform: capitalize;
+    margin-top: 70px;
+    letter-spacing: 0.5px;
+
+ }
+
